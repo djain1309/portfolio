@@ -13,7 +13,7 @@ function Home() {
   ]
   const authorization = [
     "Authorized to work in USA for any employer",
-    "Ready to relocate in USA"
+    "Open to relocate anywhere in the USA"
   ]
   return (
     <section>
@@ -36,10 +36,15 @@ function Home() {
                 <strong className="main-name"> DEEPANSHU </strong>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
-                <Type  type = {type} />
+              <div style={{ padding: 30, textAlign: "left" }}>
+                <Type  type = {type}/>
               
-                <Type  type = {authorization} />
+                {/* <Type  type = {authorization}/> */}
+              </div>
+              <div style={{ padding: 30, textAlign: "left" }}>
+                {/* <Type  type = {type}/> */}
+              
+                <Type  type = {authorization}/>
               </div>
             </Col>
 
