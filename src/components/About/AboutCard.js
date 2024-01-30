@@ -11,11 +11,11 @@ function AboutCard() {
             {/* Meet <span className="purple">Deepanshu </span> */}
             {/* from <span className="purple"> New York, USA.</span> */}
             Deepanshu - a Software Engineer with a passion for innovation and excellence,
-             with <span className="purple">5 years of industry experience</span> and a strong foundation in Computer Science.
+             with <span className="purple">5+ years of industry experience</span> and a strong foundation in Computer Science.
             <br /> Deepanshu has honed his skills in building complex and robust applications. 
             His unwavering commitment to reducing complexity in software engineering has made him a valuable asset to the organizations he has worked with.
             <br />
-            Currently pursuing his <span className="purple">Master of Science degree from University at Buffalo, New York, USA.</span>
+            Graduated with <span className="purple">Master of Science in Computer Science degree from University at Buffalo, New York, USA.</span>
             <br />
             Deepanshu's insatiable thirst for knowledge has kept him at the forefront of cutting-edge technology. 
             His diverse experience and expertise in the field have equipped him with the ability to seamlessly navigate any job listing.
